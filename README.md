@@ -16,8 +16,8 @@
 * [Rozdíl mezi regresí a klasifikací](https://www.youtube.com/watch?v=i04Pfrb71vk&ab_channel=Udacity)
 * [Kdy použít regresi a kdy klasifikaci](https://www.youtube.com/watch?v=7vkkASg2xDk&ab_channel=OscarAlsing)
 * [houstonthenerd.com - pár tutoriálů na regresi](http://houstonthenerd.com/category/tutorials/)
+* [AA](https://www.youtube.com/watch?v=OCwZyYH14uw&ab_channel=edureka%21)
 
 ### Autoři
 * [Martin Vlach](mailto:xvlach@mendelu.cz)
 * [Jakub Dolejší](mailto:xdolejsi@mendelu.cz)
-https://www.youtube.com/watch?v=OCwZyYH14uw&ab_channel=edureka%21
