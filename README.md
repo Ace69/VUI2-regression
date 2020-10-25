@@ -20,4 +20,3 @@
 ### Autoři
 * [Martin Vlach](mailto:xvlach@mendelu.cz)
 * [Jakub Dolejší](mailto:xdolejsi@mendelu.cz)
-https://www.youtube.com/watch?v=OCwZyYH14uw&ab_channel=edureka%21
